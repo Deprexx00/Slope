@@ -1,7 +1,4 @@
-# Slope
-A clone of the original slope game by Y8 for educational purposes.
 
-Also if you want to play it during school.
 
 ## Badges
 
@@ -17,9 +14,7 @@ Also if you want to play it during school.
 
 ## Play
 
-[Click me to play!](https://3kh0.github.io/slope/)
-
-Most likey unblocked. Unless if xxx.github.io is blocked.
+[Click me to play!](https://deprexx00.github.io/Slope/)
 
 ## Notice
 
